@@ -1,0 +1,2 @@
+local bazel
+add BAZEL_REPO_PATH to .bashrc
